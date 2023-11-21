@@ -1,1 +1,30 @@
 /* your code */
+table{
+	border: 0px solid black;
+	border-radius: 20px
+}
+
+thead{
+	background-color: darkblue;
+}
+
+header{
+	background-color:aliceblue;
+	color:white;
+}
+
+#tr1{
+	text-align:center;
+	background-color: white;
+}
+
+#tr2{
+	background-color: darkgray
+}
+#tr4{
+	background-color: darkgray
+}
+
+td{
+	text-align:center;
+}
